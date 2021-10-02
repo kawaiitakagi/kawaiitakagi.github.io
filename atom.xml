@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-01T08:53:45.275Z</updated>
+  <updated>2021-10-02T08:36:38.697Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>It&#39;s a test document.</title>
+    <link href="http://example.com/2021/10/02/It&#39;s%20a%20test%20document./"/>
+    <id>http://example.com/2021/10/02/It&#39;s%20a%20test%20document./</id>
+    <published>2021-10-02T08:35:40.000Z</published>
+    <updated>2021-10-02T08:36:38.697Z</updated>
+    
+    <content type="html"><![CDATA[<p>##Just for testing. </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;##Just for testing. &lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="TEST" scheme="http://example.com/tags/TEST/"/>
+    
+  </entry>
   
   <entry>
     <title>takagi</title>
